@@ -1,5 +1,6 @@
 package org.example;
 
+import java.util.Arrays;
 import java.util.NoSuchElementException;
 import java.util.Objects;
 import java.util.stream.Stream;
@@ -109,5 +110,13 @@ public class ArrayList<T> implements List<T> {
     public void clear() {
         size = 0;
         elements = new Object[DEFAULT_CAPACITY];
+    }
+
+    @Override
+    public String toString() {
+        return "ArrayList{" +
+                "elements=" + Arrays.toString(elements) +
+                ", size=" + size +
+                '}';
     }
 }

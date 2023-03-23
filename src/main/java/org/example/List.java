@@ -1,6 +1,7 @@
 package org.example;
 
 public interface List<T> {
+
     void add(T element);
 
     void add(int index, T element);

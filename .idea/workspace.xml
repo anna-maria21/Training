@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="677133de-1dda-4545-83fb-0237026ab9bd" name="Changes" comment="Create new package for Node and Nodes">
+    <list default="true" id="677133de-1dda-4545-83fb-0237026ab9bd" name="Changes" comment="Create interface List and class ArrayList. Realize some methods in ArrayList">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/node/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/node/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1679391823695</updated>
       <workItem from="1679391825280" duration="3944000" />
-      <workItem from="1679398470924" duration="3335000" />
+      <workItem from="1679398470924" duration="3468000" />
+      <workItem from="1679561775251" duration="4071000" />
     </task>
     <task id="LOCAL-00001" summary="Create the Node and Nodes classes. Realize some methods in Nodes">
       <created>1679397002092</created>
@@ -100,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679398635256</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Create interface List and class ArrayList. Realize some methods in ArrayList">
+      <created>1679402283452</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679402283452</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Create interface List and class ArrayList. Realize some methods in ArrayList">
+      <created>1679402297385</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679402297385</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +139,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create the Node and Nodes classes. Realize some methods in Nodes" />
     <MESSAGE value="Create new package for Node and Nodes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create new package for Node and Nodes" />
+    <MESSAGE value="Create interface List and class ArrayList. Realize some methods in ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create interface List and class ArrayList. Realize some methods in ArrayList" />
   </component>
 </project>
